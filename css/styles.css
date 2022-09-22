@@ -21,7 +21,7 @@
     hr {border-style: none;
         border-top-style: dotted;
         width: 34%;
-        border-color: dimgray;
+        border-color: #696969;
         border-width: 8px;}
 
     table {margin: auto;}
@@ -33,14 +33,14 @@
 
     #main_1 {width: 50%;
              float: left;
-             margin-top: 12%;}
+             margin-top: 10%;}
 
     #main_2 {position: relative;
              right: 5%;
              width: 50%;
              float: right;}
 
-    .main:hover {background-color: #e0dadc;}
+    .main:hover {background-color: #d3d3d3;}
 
     .round {border-radius: 100%;}
 
@@ -112,7 +112,7 @@
     .portfolio {background-color: #FFFFFF;
         text-align: left;
         border: 1px solid #C9C9C9;    
-        margin-top: 1;
+        margin-top: 1%;
         margin-left: 1%;
         margin-right: 1%;
         margin-bottom: 5%;
@@ -130,5 +130,8 @@
 
     .cm-builtin {color: #01720a;} 
 
-    .CodeMirror-code {position: relative;
-                      top: -50px;}
+    .CodeMirror-code {position: relative; top: -50px;}
+
+    .social-media {position: relative; margin-top: 6%;}
+
+    .social-media a :hover {background-color: #d3d3d3; border-radius: 20%;}
