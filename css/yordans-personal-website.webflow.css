@@ -346,12 +346,13 @@ blockquote {
 
 .header-button.footer-chat-button {
   border: 2px solid #eaeaea;
+  background-color:rgba(255, 140, 146, 0.21);
   -webkit-transition: border-color 200ms ease, background-color 200ms ease, color 200ms ease;
   transition: border-color 200ms ease, background-color 200ms ease, color 200ms ease;
 }
 
 .header-button.footer-chat-button:hover {
-  border-color: rgba(255, 140, 146, 0.21);
+  border-color: rgba(250, 111, 118, 0.21);
 }
 
 .header-button-text {
@@ -4628,9 +4629,4 @@ blockquote {
   grid-row-start: span 1;
   -ms-grid-row-span: 1;
   grid-row-end: span 1;
-}
-
-.w-col w-col-6 { margin-top: 15px; 
-  padding-left: 10; 
-  padding-right: 10;
 }
