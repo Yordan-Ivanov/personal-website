@@ -4630,7 +4630,7 @@ blockquote {
   grid-row-end: span 1;
 }
 
-.w-cal { margin-top: 15px; 
+.w-col w-col-6 { margin-top: 15px; 
   padding-left: 10; 
   padding-right: 10;
 }
