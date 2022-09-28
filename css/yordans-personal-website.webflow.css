@@ -345,8 +345,8 @@ blockquote {
 }
 
 .header-button.footer-chat-button {
-  border: 2px solid rgba(255, 140, 146, 0.21);
-  background-color:rgba(255, 140, 146, 0.21);
+  border: 0px solid rgba(255, 140, 146, 0.21);
+  background-color:#F3EAEB;
   -webkit-transition: border-color 200ms ease, background-color 200ms ease, color 200ms ease;
   transition: border-color 200ms ease, background-color 200ms ease, color 200ms ease;
 }
