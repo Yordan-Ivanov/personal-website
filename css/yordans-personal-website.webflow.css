@@ -490,7 +490,7 @@ blockquote {
 .cta-section {
   position: relative;
   padding-top: 50px;
-  padding-bottom: 80px;
+  padding-bottom: 10px;
 }
 
 .cta-wrap {
