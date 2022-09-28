@@ -497,7 +497,7 @@ blockquote {
   position: relative;
   z-index: 3;
   overflow: hidden;
-  padding: 90px 20px 110px;
+  padding: 90px 20px 180px;
   border-radius: 30px;
   background-color: #f2f6f7;
   text-align: center;
