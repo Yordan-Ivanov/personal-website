@@ -508,7 +508,7 @@ blockquote {
   z-index: 2;
   max-width: 600px;
   margin-right: auto;
-  margin-bottom: 25px;
+  margin-bottom: 15px;
   margin-left: auto;
   text-align: center;
 }
@@ -2112,6 +2112,8 @@ blockquote {
 
 .certificate {
   display: block;
+  margin-top: 50px;
+  margin-bottom: 50px;
   padding: 7%;
   border-radius: 20px;
   background-color: #fff;
