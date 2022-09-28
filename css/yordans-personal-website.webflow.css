@@ -508,7 +508,7 @@ blockquote {
   z-index: 2;
   max-width: 600px;
   margin-right: auto;
-  margin-bottom: 25px;
+  margin-bottom: 0px;
   margin-left: auto;
   text-align: center;
 }
@@ -2281,7 +2281,7 @@ blockquote {
   }
 
   .section-title-content {
-    margin-bottom: 30%;
+    margin-bottom: 5%;
   }
 
   .white-button {
