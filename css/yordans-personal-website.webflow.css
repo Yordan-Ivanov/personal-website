@@ -490,7 +490,7 @@ blockquote {
 .cta-section {
   position: relative;
   padding-top: 50px;
-  padding-bottom: 10px;
+  padding-bottom: 80px;
 }
 
 .cta-wrap {
@@ -2263,12 +2263,13 @@ blockquote {
 
   .cta-section {
     padding-top: 50px;
-    padding-bottom: 60px;
+    padding-bottom: 10px;
   }
 
   .cta-wrap {
     padding-top: 100px;
     padding-bottom: 120px;
+    text-align: left;
   }
 
   .section-title-text {
@@ -2280,7 +2281,7 @@ blockquote {
   .section-title-content {
     margin-bottom: 30%;
   }
-  
+
   .white-button {
     padding: 28px 50px;
   }
