@@ -899,6 +899,7 @@ blockquote {
   padding: 80px 40px 100px;
   border-radius: 30px;
   background-color: #f5f4f5;
+  margin-bottom: 80px;
 }
 
 .work-list-items {
@@ -1709,7 +1710,8 @@ blockquote {
 }
 
 .blog-wrap.home-page-blog {
-  margin-top: 40px;
+  margin-top: 20px;
+  margin-bottom: 80px;
 }
 
 .blog-item {
