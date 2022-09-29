@@ -1370,6 +1370,7 @@ blockquote {
   width: 100%;
   margin-right: auto;
   margin-left: auto;
+  margin-bottom: 80px;
 }
 
 .services-grid {
@@ -1434,6 +1435,7 @@ blockquote {
 .contact-section {
   position: relative;
   padding-bottom: 60px;
+  padding-top: 20px;
 }
 
 .service-section-wave {
@@ -1714,7 +1716,7 @@ blockquote {
 
 .blog-wrap.home-page-blog {
   margin-top: 20px;
-  margin-bottom: 80px;
+  margin-bottom: 100px;
 }
 
 .blog-item {
