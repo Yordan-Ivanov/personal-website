@@ -1233,6 +1233,8 @@ blockquote {
   border-radius: 30px;
   background-color: #263238;
   text-align: center;
+  margin-top: 20px;
+  margin-bottom: 80px;
 }
 
 .info-content-wrap {
