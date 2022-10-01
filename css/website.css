@@ -614,8 +614,8 @@ blockquote {
 }
 
 .footer-section {
-  padding-top: 20px;
-  padding-bottom: 60px;
+  padding-top: 0px;
+  padding-bottom: 80px;
 }
 
 .footer-grid {
@@ -1233,7 +1233,7 @@ blockquote {
   border-radius: 30px;
   background-color: #263238;
   text-align: center;
-  margin-top: 20px;
+  margin-top: 40px;
   margin-bottom: 50px;
 }
 
@@ -1434,8 +1434,8 @@ blockquote {
 
 .contact-section {
   position: relative;
-  padding-bottom: 60px;
-  padding-top: 20px;
+  padding-bottom: 40px;
+  padding-top: 40px;
 }
 
 .service-section-wave {
@@ -1716,7 +1716,7 @@ blockquote {
 
 .blog-wrap.home-page-blog {
   margin-top: 20px;
-  margin-bottom: 60px;
+  margin-bottom: 20px;
 }
 
 .blog-item {
@@ -2302,7 +2302,7 @@ blockquote {
 
   .footer-section {
     padding-top: 20px;
-    padding-bottom: 110px;
+    padding-bottom: 80px;
   }
 
   .footer-grid {
@@ -3591,7 +3591,7 @@ blockquote {
   }
 
   .footer-section {
-    padding-bottom: 60px;
+    padding-bottom: 80px;
   }
 
   .widget-title {
