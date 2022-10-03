@@ -147,7 +147,7 @@ blockquote {
 .header-banner-section {
   position: relative;
   overflow: hidden;
-  padding-bottom: 120px;
+  padding-bottom: 60px;
   background-color: #fdf1fd;
 }
 
@@ -157,6 +157,7 @@ blockquote {
 
 .container {
   max-width: 96%;
+  margin-bottom: 10px;
 }
 
 .header-wrap {
@@ -345,8 +346,7 @@ blockquote {
 }
 
 .header-button.footer-chat-button {
-  border: 0px solid rgba(255, 140, 146, 0.21);
-  background-color:#F3EAEB;
+  border: 2px solid #eaeaea;
   -webkit-transition: border-color 200ms ease, background-color 200ms ease, color 200ms ease;
   transition: border-color 200ms ease, background-color 200ms ease, color 200ms ease;
 }
@@ -489,15 +489,16 @@ blockquote {
 
 .cta-section {
   position: relative;
-  padding-top: 10px;
-  padding-bottom: 0px;
+  padding-top: 50px;
+  padding-bottom: 80px;
 }
 
 .cta-wrap {
   position: relative;
   z-index: 3;
   overflow: hidden;
-  padding: 90px 20px 180px;
+  margin-bottom: -40px;
+  padding: 90px 20px 110px;
   border-radius: 30px;
   background-color: #f2f6f7;
   text-align: center;
@@ -508,7 +509,7 @@ blockquote {
   z-index: 2;
   max-width: 600px;
   margin-right: auto;
-  margin-bottom: 0px;
+  margin-bottom: 25px;
   margin-left: auto;
   text-align: center;
 }
@@ -522,6 +523,10 @@ blockquote {
   font-family: 'Open Sans', sans-serif;
   font-size: 40px;
   font-weight: 700;
+}
+
+.section-title-content {
+  margin-bottom: 30%;
 }
 
 .white-button {
@@ -614,8 +619,8 @@ blockquote {
 }
 
 .footer-section {
-  padding-top: 0px;
-  padding-bottom: 80px;
+  padding-top: 20px;
+  padding-bottom: 60px;
 }
 
 .footer-grid {
@@ -899,12 +904,10 @@ blockquote {
   padding: 80px 40px 100px;
   border-radius: 30px;
   background-color: #f5f4f5;
-  margin-top: 20px;
-  margin-bottom: 80px;
 }
 
 .work-list-items {
-  margin-top: 20px;
+  margin-top: 50px;
   text-align: left;
 }
 
@@ -914,6 +917,7 @@ blockquote {
   display: -ms-flexbox;
   display: flex;
   min-height: 440px;
+  margin-top: 0px;
   margin-bottom: 70px;
   padding: 40px;
   -webkit-box-orient: horizontal;
@@ -1233,8 +1237,6 @@ blockquote {
   border-radius: 30px;
   background-color: #263238;
   text-align: center;
-  margin-top: 40px;
-  margin-bottom: 50px;
 }
 
 .info-content-wrap {
@@ -1360,7 +1362,7 @@ blockquote {
 
 .services-section {
   position: relative;
-  padding-top: 60px;
+  padding-top: 40px;
   padding-bottom: 60px;
 }
 
@@ -1370,7 +1372,6 @@ blockquote {
   width: 100%;
   margin-right: auto;
   margin-left: auto;
-  margin-bottom: 0px;
 }
 
 .services-grid {
@@ -1434,8 +1435,7 @@ blockquote {
 
 .contact-section {
   position: relative;
-  padding-bottom: 40px;
-  padding-top: 40px;
+  padding-bottom: 60px;
 }
 
 .service-section-wave {
@@ -1482,7 +1482,7 @@ blockquote {
 
 .input-type {
   height: 60px;
-  margin-bottom: 100px;
+  margin-bottom: 50px;
   padding: 12px 12px 18px 0px;
   border-style: none none solid;
   border-width: 1px;
@@ -1568,16 +1568,14 @@ blockquote {
 }
 
 .changelog-section {
-  padding-top: 100px;
+  padding-top: 20px;
   padding-bottom: 80px;
 }
 
 .changelog-wrap {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
+  display: inline-block;
   min-height: 490px;
+  margin-top: 40px;
   padding: 100px;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
@@ -1590,7 +1588,6 @@ blockquote {
   grid-column-gap: 20px;
   border-radius: 30px;
   background-color: #f2f6f7;
-  background-image: url('../images/changelog-bg.png');
   background-position: 50% 50%;
   background-size: auto;
   background-repeat: no-repeat;
@@ -1711,12 +1708,11 @@ blockquote {
   margin-bottom: 60px;
   padding-top: 100px;
   padding-bottom: 80px;
-  background-color: #ffffff;
+  background-color: #f2f6f7;
 }
 
 .blog-wrap.home-page-blog {
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 40px;
 }
 
 .blog-item {
@@ -2119,23 +2115,132 @@ blockquote {
 
 .certificate {
   display: block;
-  margin-top: 10px;
-  margin-bottom: 50px;
-  padding: 7%;
-  border-radius: 40px;
+  margin-top: 15px;
+  margin-bottom: 80px;
+  padding: 7% 7% 15%;
+  border-radius: 20px;
   background-color: #fff;
 }
 
 .image-5 {
-  border-radius: 40px;
+  border-radius: 20px;
 }
 
 .image-6 {
-  border-radius: 40px;
+  border-radius: 20px;
 }
 
 .image-7 {
+  border-radius: 20px;
+}
+
+.image-8 {
+  border-radius: 20px;
+}
+
+.div-block {
+  display: block;
+  overflow: auto;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 auto;
+  -ms-flex: 0 auto;
+  flex: 0 auto;
+}
+
+.text-block {
+  font-size: 20px;
+  text-align: left;
+}
+
+.paragraph {
+  margin-bottom: 0px;
+  padding-top: 60px;
+  font-size: 20px;
+  text-align: left;
+}
+
+.text-block-1 {
+  border-radius: 7px;
+  font-size: 20px;
+  text-align: left;
+}
+
+.heading-2 {
+  font-style: normal;
+  text-align: left;
+}
+
+.heading-3 {
+  font-style: normal;
+  text-align: left;
+}
+
+.text-block-2 {
+  font-size: 20px;
+  font-style: normal;
+  text-align: left;
+}
+
+.italic-text {
+  font-style: normal;
+  text-align: center;
+}
+
+.heading-4 {
+  text-align: left;
+}
+
+.text-block-4 {
+  font-size: 20px;
+  font-style: normal;
+  text-align: left;
+}
+
+.heading-5 {
+  font-style: italic;
+  text-align: left;
+}
+
+.text-block-5 {
+  font-size: 20px;
+  text-align: left;
+}
+
+.heading-6 {
+  font-style: normal;
+  text-align: left;
+}
+
+.italic-text-2 {
+  font-style: normal;
+}
+
+.text-block-3 {
+  font-size: 20px;
+  text-align: left;
+}
+
+.button-2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px 60px;
   border-radius: 40px;
+  background-color: #263238;
+  font-size: 20px;
+  text-align: right;
+}
+
+.italic-text-3 {
+  font-style: normal;
+}
+
+.italic-text-4 {
+  font-style: normal;
+}
+
+.text-block-6 {
+  font-size: 20px;
+  text-align: left;
 }
 
 @media screen and (min-width: 1280px) {
@@ -2272,13 +2377,12 @@ blockquote {
 
   .cta-section {
     padding-top: 50px;
-    padding-bottom: 10px;
+    padding-bottom: 60px;
   }
 
   .cta-wrap {
     padding-top: 100px;
     padding-bottom: 120px;
-    text-align: left;
   }
 
   .section-title-text {
@@ -2288,7 +2392,7 @@ blockquote {
   }
 
   .section-title-content {
-    margin-bottom: 5%;
+    font-size: 18px;
   }
 
   .white-button {
@@ -2302,7 +2406,7 @@ blockquote {
 
   .footer-section {
     padding-top: 20px;
-    padding-bottom: 80px;
+    padding-bottom: 110px;
   }
 
   .footer-grid {
@@ -2496,7 +2600,7 @@ blockquote {
   }
 
   .changelog-section {
-    padding-top: 120px;
+    padding-top: 0px;
     padding-bottom: 100px;
   }
 
@@ -2625,8 +2729,6 @@ blockquote {
   }
 
   .cta-wrap {
-    padding-left: 5%;
-    padding-right: 5%;
     padding-top: 100px;
     padding-bottom: 120px;
   }
@@ -2638,7 +2740,7 @@ blockquote {
   }
 
   .footer-social-widget {
-    margin-left: 50px;
+    margin-left: 100px;
   }
 
   .widget-title {
@@ -2837,7 +2939,7 @@ blockquote {
   }
 
   .changelog-section {
-    padding-top: 140px;
+    padding-top: 0px;
     padding-bottom: 120px;
   }
 
@@ -3591,7 +3693,7 @@ blockquote {
   }
 
   .footer-section {
-    padding-bottom: 80px;
+    padding-bottom: 60px;
   }
 
   .widget-title {
@@ -4642,3 +4744,4 @@ blockquote {
   -ms-grid-row-span: 1;
   grid-row-end: span 1;
 }
+
