@@ -1549,6 +1549,7 @@ blockquote {
 
 .license-grid {
   margin-top: 75px;
+  margin-bottom: 100px;
   -ms-grid-columns: 0.4fr 1fr;
   grid-template-columns: 0.4fr 1fr;
   -ms-grid-rows: auto;
